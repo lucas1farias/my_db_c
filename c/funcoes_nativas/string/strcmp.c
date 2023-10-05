@@ -3,6 +3,11 @@
 #include <stdio.h>
 #include <string.h>
 
+/*
+Se for igual: retorno 0
+Se for diferente: retorno -1
+*/
+
 int main() {
     char str1[] = "hello";
     char str2[] = "hello";
